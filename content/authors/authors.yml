@@ -1,0 +1,10 @@
+- name: Victor Abeledo
+  bio: |
+    Web developer, Argentina.
+  avatar: ./avatars/victor.jpg
+  social:
+    - url: https://landing.icuerpo.com
+    - url: https://linkedin.com/in/victor-abeledo-aa5050ba
+    - url: https://github.com/abeledovictor
+    - url: https://stackoverflow.com/users/6739197/victor-ja
+  featured: true
