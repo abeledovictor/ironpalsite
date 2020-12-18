@@ -1,14 +1,14 @@
 module.exports = {
   // pathPrefix: "/locounpoco",
   siteMetadata: {
-    title: `Loco un poco by Victor Abeledo`,
-    name: `Loco un poco`,
-    siteUrl: `https://locounpo.co`,
-    description: `Loco un poco. Web Programming`,
+    title: `Iron Pal - gym workout log`,
+    name: `Iron Pal`,
+    siteUrl: `https://ironpal.co`,
+    description: `Iron Pal - gym workout log`,
 
     // important to set the main text that appears in the hero
     hero: {
-      heading: `Perspectivas de programación y lo que pinte.`,
+      heading: `If you can't measure it, you can't improve it.`,
       maxWidth: 652,
     },
     social: [
@@ -28,7 +28,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it
-        trackingId: "G-RT4F0EZHM8",
+        trackingId: "G-6CK1Z6PG1K",
         // Defines where to place the tracking script - `true` in the head and `false` in the body
         head: false,
         // Setting this parameter is optional
