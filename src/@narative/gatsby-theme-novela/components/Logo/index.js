@@ -10,8 +10,7 @@ import React from 'react';
 export default function Logo({ fill }) {
   return (
 <svg viewBox="0 0 106 28" height="30px" style={{fontFamily: "'Merriweather',Georgia,Serif", fontWeight: 600, fontSize: '16px'}}>
-  <text x="0" y="15" fill={fill}>Loco un poc</text>
-  <circle style={{fill:'#79E59B'}} cx="101" cy="10" r="4" stroke={fill} strokeWidth={1} />
+  <text x="0" y="15" fill={fill}>Iron pal</text>
 </svg>
   );
 }
