@@ -9,11 +9,9 @@ import React from 'react';
  */
 export default function Logo({ fill }) {
   return (
-    <a style={{ color: 'inherit', textDecoration: 'none' }} href="https://ironpal.co">
-      <svg viewBox="0 0 106 28" height="30px" style={{fontFamily: "'Merriweather',Georgia,Serif", fontWeight: 600, fontSize: '16px'}}>
+    <svg viewBox="0 0 106 28" height="30px" style={{fontFamily: "'Merriweather',Georgia,Serif", fontWeight: 600, fontSize: '16px'}}>
 
-        <text x="0" y="15" fill={fill}>Iron pal</text>
-      </svg>
-    </a>
+      <text x="0" y="15" fill={fill}>Iron pal</text>
+    </svg>
   );
 }

@@ -45,6 +45,7 @@ module.exports = {
       options: {
         mailchimp: true,
         authorsPage: true,
+        basePath: '/',
       },
     }
   ],
