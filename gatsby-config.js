@@ -17,8 +17,8 @@ module.exports = {
         url: `https://linkedin.com/in/victor-abeledo-aa5050ba`,
       },
       {
-        name: `github`,
-        url: `https://github.com/abeledovictor/locounpoco`,
+        name: `twitter`,
+        url: `https://twitter.com/victordev0`,
       },
     ],
   },
