@@ -1,0 +1,11 @@
+/*!
+ * domready (c) Dustin Diaz 2014 - License MIT
+ * ie10 fix - Mikael Kristiansson 2019
+ */
+
+/*!
+ * is-number <https://github.com/jonschlinkert/is-number>
+ *
+ * Copyright (c) 2014-present, Jon Schlinkert.
+ * Released under the MIT License.
+ */
