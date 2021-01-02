@@ -13,12 +13,12 @@ module.exports = {
     },
     social: [
       {
-        name: `linkedin`,
-        url: `https://linkedin.com/in/victor-abeledo-aa5050ba`,
+        name: `web`,
+        url: `https://landing.ironpal.co`,
       },
       {
-        name: `twitter`,
-        url: `https://twitter.com/victordev0`,
+        name: `instagram`,
+        url: `https://instagram.com/ironpalfit`,
       },
     ],
   },
