@@ -23,6 +23,7 @@ module.exports = {
     ],
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-root-import',
     {
       resolve: 'gatsby-plugin-mailchimp',
