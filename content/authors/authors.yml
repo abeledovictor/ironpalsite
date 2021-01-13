@@ -1,8 +1,9 @@
 - name: Victor Abeledo
   bio: |
-    Web developer. Creator of Iron Pal workout log. <a target="_blank" href="https://landing.ironpal.co">Get it here</a>
+    Web developer. Creator of Iron Pal workout log. All your gym routines at your fingertips, get it at: www.landing.ironpal.co
   avatar: ./avatars/victor.jpg
   social:
+    - url: https://landing.ironpal.co
     - url: https://twitter.com/victordev0
     - url: https://linkedin.com/in/victor-abeledo-aa5050ba
   featured: true
